@@ -1,0 +1,68 @@
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\bin\Debug\focus.exe.config
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\bin\Debug\focus.exe
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\bin\Debug\focus.pdb
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\bin\Debug\focus.xml
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\obj\Debug\focus.Resources.resources
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\obj\Debug\focus.vbproj.GenerateResource.Cache
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\obj\Debug\focus.exe
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\obj\Debug\focus.xml
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\obj\Debug\focus.pdb
+D:\User\Desktop\School\Grade 10\ICS\focus\focus\obj\Debug\focus.focus.resources
+F:\focus\focus\bin\Debug\focus.exe.config
+F:\focus\focus\obj\Debug\focus.exe
+F:\focus\focus\obj\Debug\focus.xml
+F:\focus\focus\obj\Debug\focus.pdb
+F:\focus\focus\bin\Debug\focus.exe
+F:\focus\focus\bin\Debug\focus.pdb
+F:\focus\focus\bin\Debug\focus.xml
+F:\focus\focus\obj\Debug\focus.focus.resources
+F:\focus\focus\obj\Debug\focus.Resources.resources
+F:\focus\focus\obj\Debug\focus.vbproj.GenerateResource.Cache
+I:\focus\focus\bin\Debug\focus.exe.config
+I:\focus\focus\obj\Debug\focus.exe
+I:\focus\focus\obj\Debug\focus.xml
+I:\focus\focus\obj\Debug\focus.pdb
+I:\focus\focus\bin\Debug\focus.exe
+I:\focus\focus\bin\Debug\focus.pdb
+I:\focus\focus\bin\Debug\focus.xml
+I:\focus\focus\obj\Debug\focus.focus.resources
+I:\focus\focus\obj\Debug\focus.Resources.resources
+I:\focus\focus\obj\Debug\focus.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Downloads\focus\focus\bin\Debug\focus.exe.config
+C:\Users\Kevin\Downloads\focus\focus\obj\Debug\focus.exe
+C:\Users\Kevin\Downloads\focus\focus\obj\Debug\focus.xml
+C:\Users\Kevin\Downloads\focus\focus\obj\Debug\focus.pdb
+C:\Users\Kevin\Downloads\focus\focus\bin\Debug\focus.exe
+C:\Users\Kevin\Downloads\focus\focus\bin\Debug\focus.pdb
+C:\Users\Kevin\Downloads\focus\focus\bin\Debug\focus.xml
+C:\Users\Kevin\Downloads\focus\focus\obj\Debug\focus.focus.resources
+C:\Users\Kevin\Downloads\focus\focus\obj\Debug\focus.Resources.resources
+C:\Users\Kevin\Downloads\focus\focus\obj\Debug\focus.vbproj.GenerateResource.Cache
+D:\User\Desktop\focus\focus\bin\Debug\focus.exe.config
+D:\User\Desktop\focus\focus\bin\Debug\focus.exe
+D:\User\Desktop\focus\focus\bin\Debug\focus.pdb
+D:\User\Desktop\focus\focus\bin\Debug\focus.xml
+D:\User\Desktop\focus\focus\obj\Debug\focus.focus.resources
+D:\User\Desktop\focus\focus\obj\Debug\focus.Resources.resources
+D:\User\Desktop\focus\focus\obj\Debug\focus.Ping.resources
+D:\User\Desktop\focus\focus\obj\Debug\focus.vbproj.GenerateResource.Cache
+D:\User\Desktop\focus\focus\obj\Debug\focus.exe
+D:\User\Desktop\focus\focus\obj\Debug\focus.xml
+D:\User\Desktop\focus\focus\obj\Debug\focus.pdb
+D:\User\Desktop\focus\focus\bin\Debug\focus.exe.manifest
+D:\User\Desktop\focus\focus\bin\Debug\focus.application
+D:\User\Desktop\focus\focus\obj\Debug\focus.TrustInfo.xml
+D:\User\Desktop\focus\focus\obj\Debug\focus.exe.manifest
+D:\User\Desktop\focus\focus\obj\Debug\focus.application
+I:\focus\focus\bin\Debug\focus.exe.manifest
+I:\focus\focus\bin\Debug\focus.application
+I:\focus\focus\obj\Debug\focus.Ping.resources
+I:\focus\focus\obj\Debug\focus.TrustInfo.xml
+I:\focus\focus\obj\Debug\focus.exe.manifest
+I:\focus\focus\obj\Debug\focus.application
+F:\focus\focus\bin\Debug\focus.exe.manifest
+F:\focus\focus\bin\Debug\focus.application
+F:\focus\focus\obj\Debug\focus.Ping.resources
+F:\focus\focus\obj\Debug\focus.TrustInfo.xml
+F:\focus\focus\obj\Debug\focus.exe.manifest
+F:\focus\focus\obj\Debug\focus.application
