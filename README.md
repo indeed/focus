@@ -6,5 +6,5 @@ We set out to create a simple word processor that would help users manage their 
 
 #License
 Copyright 2015 Shun Yu Rao and contributors.
-<br>
+</br>
 focus is free software made available under the MIT License.
