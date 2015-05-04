@@ -1,4 +1,4 @@
-# focus
+# focus.
 A minimalistic, productivity oriented text editor using pomodoro.
 
 # the concept
