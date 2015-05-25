@@ -67,7 +67,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>img\icons\focus.ico</ApplicationIcon>
+    <ApplicationIcon>focus.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>A818EC3EF20993C871F4B289A38697354E747A4C</ManifestCertificateThumbprint>
@@ -153,6 +153,12 @@
     <Compile Include="printDocument.vb">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="themes.vb" />
   </ItemGroup>
   <ItemGroup>
@@ -167,6 +173,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Ping.resx">
       <DependentUpon>Ping.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -271,6 +280,15 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\focusi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="focus.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

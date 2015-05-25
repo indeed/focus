@@ -91,6 +91,10 @@ focus
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
+</member><member name="P:focus.My.Resources.Resources.splash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:focus.My.Resources.Resources.stats">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
